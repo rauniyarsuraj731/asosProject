@@ -8,10 +8,10 @@ export const Menspage = () => {
         <div id="mensmain">
             
          
-            <div id="divimage6">
+            <div id="divimage1">
                 <img id="image1" src="https://i.ibb.co/f1tgvdk/Whats-App-Image-2022-06-19-at-9-29-03-AM-1.jpg" srcset="" />
             </div>
-            <div id="divimage2">
+            <div id="image2">
                 <img id="image2" src="https://i.ibb.co/cg8xpzg/Whats-App-Image-2022-06-19-at-9-32-09-AM.jpg"  srcset="" />
             </div>
             <div id="fourpictures">
