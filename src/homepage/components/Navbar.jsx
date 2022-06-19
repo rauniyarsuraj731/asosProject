@@ -25,10 +25,12 @@ export const Navbar = () => {
 
                             <ul className="navbar-nav mb-lg-0 ">
                                 <li className="nav-item navText">
-                                    <a className="nav-link text-white " href="/womens">WOMEN</a>
+                               
+                                    <Link to="/womens" className='nav-link text-white'>WOMEN</Link>
                                 </li>
                                 <li className="nav-item navText">
-                                    <a className="nav-link text-white " href="/mens">MEN</a>
+                                  
+                                    <Link to="/mens" className='nav-link text-white'>MEN</Link>
                                 </li>
                             </ul>
 
