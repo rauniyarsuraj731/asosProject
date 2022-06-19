@@ -1,4 +1,4 @@
-.content_over_image {
+.image1 {
     width: 100%;
     height: 700px;
     background-position: center;
@@ -6,24 +6,24 @@
     background-image: url("https://content.asos-media.com/-/media/homepages/unisex/generic-hp/archive/oct-2021/microsoftteams-image-(10).png");
 }
 
-.content_under_img {
+.image2 {
     width: 100%;
     line-height: 5px;
 }
 
-.content_under_img > .heading {
+.image2 > .head {
     font-size: 60px;
     font-weight: 700;
     color: white;
 }
 
-.content_under_img > .para{
+.image2 > .descrp{
     font-size: 18px;
     color: white;
     font-weight: 600;
 }
 
-.b1{
+.btn1{
     background-color: white;
     border: none;
     color: black;
@@ -31,7 +31,7 @@
     font-weight: 700;
     letter-spacing: 2px;
 }
-.b2{
+.btn2{
     background-color: white;
     border: none;
     color: black;
@@ -40,21 +40,21 @@
     letter-spacing: 2px;
 }
 
-.b1:hover{
+.btn1:hover{
     background-color: black;
     border: none;
     color: white; 
     transition: 1s;
 }
 
-.b2:hover{
+.btn2:hover{
     background-color: black;
     border: none;
     color: white; 
     transition: 1s;
 }
 
-.below_img{
+.image3{
     background-color: #2d2d2d;
     color: white;
     font-weight: 600;

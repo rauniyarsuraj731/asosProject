@@ -9,10 +9,10 @@ export const Menspage = () => {
             
          
             <div id="divimage6">
-                <img id="image1" src="https://i.ibb.co/xSY32xM/discount-image.jpg" alt="discount image for mans page" srcset="" />
+                <img id="image1" src="https://i.ibb.co/f1tgvdk/Whats-App-Image-2022-06-19-at-9-29-03-AM-1.jpg" srcset="" />
             </div>
             <div id="divimage2">
-                <img id="image2" src="https://i.ibb.co/58y0tvJ/hero-image.jpg" alt="Hero image" srcset="" />
+                <img id="image2" src="https://i.ibb.co/cg8xpzg/Whats-App-Image-2022-06-19-at-9-32-09-AM.jpg"  srcset="" />
             </div>
             <div id="fourpictures">
                 

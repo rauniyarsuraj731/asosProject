@@ -2,15 +2,15 @@
 import './App.css';
 
 import  {Routes,Route} from "react-router-dom"
-import {Menspage} from "../src/mens_main/src/components/mens_page";
+import {Menspage} from "../src/mens_main/src/components/men";
 import {Landingpage} from "./homepage/landing"
 import {Womenspage} from "../src/mens_main/src/components/women"
 import {Bergpage} from "./bergpage/bergpage"
 import {Holidaypage} from "./holiday/holiday1"
 import {Nikepage} from "./nike/nike"
 import {Polopage} from "./polo/polopage"
-import {Navbar} from "./landing-page/components/Navbar"
-import {Footer} from "./landing-page/components/Footer"
+import {Navbar} from "./homepage/components/Navbar"
+import {Footer} from "./homepage/components/Footer"
 import {WomenPage} from "./womens/womenpage"
 
 

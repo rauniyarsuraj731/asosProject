@@ -1,7 +1,6 @@
 import "./mens.css"
 import { Link } from 'react-router-dom';
-import { Navbar } from "../../../landing-page/components/Navbar";
-import { Footer } from "../../../landing-page/components/Footer";
+
 export const Womenspage = () => {
     return (
         <div>
@@ -9,10 +8,10 @@ export const Womenspage = () => {
         <div id="mensmain">
             
             <div id="divimage1">
-                <img id="image1" src="https://i.ibb.co/xSY32xM/discount-image.jpg" alt="discount image for womens page" srcset="" />
+                <img id="image1" src="https://i.ibb.co/f1tgvdk/Whats-App-Image-2022-06-19-at-9-29-03-AM-1.jpg" alt="discount image for womens page" srcset="" />
             </div>
-            <div id="divimage2">
-                <img id="image2" src="https://content.asos-media.com/-/media/homepages/ww/2022/june/06/hero/hero_1258x600.jpg" alt="Hero image" srcset="" />
+            <div >
+                <img id="image2" src="https://i.ibb.co/MNQsTK8/image.jpg" alt="Hero image" srcset="" />
             </div>
             <div id="fourpictures">
              

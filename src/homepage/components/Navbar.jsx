@@ -24,21 +24,21 @@ export const Navbar = () => {
                         <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
 
                             <ul className="navbar-nav mb-lg-0 ">
-                                <li className="nav-item nav_wo_men">
+                                <li className="nav-item navText">
                                     <a className="nav-link text-white " href="/womens">WOMEN</a>
                                 </li>
-                                <li className="nav-item nav_wo_men">
+                                <li className="nav-item navText">
                                     <a className="nav-link text-white " href="/mens">MEN</a>
                                 </li>
                             </ul>
 
-                            <div className="input-group  ">
+                            <div className="input-group">
 
-                                <input className="form-control ms-4 input_field" type="search" placeholder="Search for items and brands" aria-label="Search" />
+                                <input className="form-control ms-4 inputarea" type="search" placeholder="Search for items and brands" aria-label="Search" />
                             </div>
                             <div className='diff-sym'>
-                                <Link to = "/signup"><i class="fa-regular fa-user user ms-4"></i></Link>
-                                <i class="fa-regular fa-heart user ms-4"></i>
+                                <Link to = "/signup"><i class="fa-regular fa-user symb ms-4"></i></Link>
+                                <i class="fa-regular fa-heart symb ms-4"></i>
                                 <i class="fas fa-shopping-cart ms-4" style={{color:"white"}}></i>
                             </div>
                         </div>
@@ -46,24 +46,24 @@ export const Navbar = () => {
                 </nav>
             </div>
 
-{/* below navbar */}
+
             
-            <div className='below_nav'>
-                <div className='container below_nav_content'>
+            <div className='bottom'>
+                <div className='container bottom_content'>
 
                 <div className='row'>
 
-                    <div className='col-lg-4 c_1'>
-                        <button className=''>WOMEN</button>
+                    <div className='col-lg-4 tag'>
+                        <button >WOMEN</button>
                     </div>
 
-                    <div className='col-lg-4 text-center  c_2'>
+                    <div className='col-lg-4 text-center '>
                         <strong className='dsc-text '>SALE: UP TO 70% OFF! <br/> IT'S CALLED BIG DISCOUNT ENERGY
                                  
                         </strong>
                     </div>
 
-                    <div className='col-lg-4  text-end c_1'>
+                    <div className='col-lg-4  text-end tag'>
                         <button className='me-5'>MEN</button>
                     </div>
                 </div>

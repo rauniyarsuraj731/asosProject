@@ -5,17 +5,17 @@ export const HomeImage = () => {
 
             <div className="container home_container">
                 <div className="row">
-                    <div className=" col-lg-12 col-md-12 col-sm-12 content_over_image d-flex align-items-center">
-                        <div className='content_under_img text-center'>
-                            <h1 className='heading'>This is ASOS</h1> <br />
-                            <p className='para'>ASOS DESIGN and 850+ brands</p> <br />
-                            <button className='b1 me-3  mt-3'>SHOP WOMEN</button><button className='b2 ms-3 mt-3'>SHOP MEN</button>
+                    <div className=" col-lg-12 col-md-12 col-sm-12 image1 d-flex align-items-center">
+                        <div className='image2 text-center'>
+                            <h1 className='head'>This is ASOS</h1> <br />
+                            <p className='descrp'>ASOS DESIGN and 850+ brands</p> <br />
+                            <button className='btn1 me-3  mt-3'>SHOP WOMEN</button><button className='btn2 ms-3 mt-3'>SHOP MEN</button>
                         </div>
                     </div>
                 </div>
 
 
-                <div className='row below_img'>
+                <div className='row image3'>
                     <div className='col-lg-6 col-md-6 col-sm-6 col-12 text-center pt-2'>
                         <p className='delivery'>EASY DELIVERY WORLDWIDE</p>
                     </div>

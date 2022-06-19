@@ -11,21 +11,21 @@
     margin-top: 0px;
     padding-top: 0px;
 }
-.nav_wo_men{
+.navText{
     line-height: 32px;
     padding: 0px 25px 0px 25px;
     border-right: 1px solid #525050;
 }
-.nav_wo_men:hover{
+.navText:hover{
     background-color: #525050;
 }
 
-.input_field{
+.inputarea{
     width: 750px;
     border-radius: 50px;
 }
 
-.user{
+.symb{
     color: white;
 }
 .diff-sym{
@@ -36,14 +36,14 @@
     line-height: 1px;
 }
 
-.below_nav{
+.bottom{
     display: flex;
     background-color: #ef243c;
     vertical-align: middle;
 }
 
 
-.c_1 > button{
+.tag > button{
     font-size: 15px;
     background-color: transparent;
     color: black;
@@ -54,10 +54,4 @@
     font-weight: 700;
 
 }
-.c_2 > strong{
-    font-size: 14px;
-    color: black;
-    letter-spacing: 2px;
-    margin-top: 0%;
-    line-height: 0%;
-}
+
